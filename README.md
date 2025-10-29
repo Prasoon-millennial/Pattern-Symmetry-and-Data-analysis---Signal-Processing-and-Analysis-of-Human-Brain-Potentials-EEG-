@@ -1,4 +1,4 @@
-🧠 EEG Visual Pattern Analysis
+
 🔍 Overview
 
 This repository contains a project that examines how the human brain responds to visual patterns using electroencephalography (EEG).
